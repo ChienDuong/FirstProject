@@ -1,0 +1,21 @@
+﻿Build started 8/16/2017 9:23:50 PM.
+     1>Project "D:\Project\2.Business Project\FINAL PRoject\Review\Opencv31_5_CreateCheckdata _Horizoltal_Lan 2_shift\HelloWorld\HelloWorld.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HelloWorld.vcxproj, OpenCv1_5_Full_v1.vcxproj, OpenCv1_5_Full_v2_Work on Horizoltal.vcxproj, OpenCv20_5_V1.vcxproj, OpenCv28_4.vcxproj, OpenCv28_4_Ver2.vcxproj, OpenCv31_5_Creat data.vcxproj, OpenCv31_5_Creat data_Horizoltal.vcxproj, OpenCv4_5_V2_Initial model.vcxproj, OpenCv4_5_V2.vcxproj, OpenCv5_5_V1.vcxproj, OpenCv7_5_V1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\project\2.business project\final project\review\opencv31_5_createcheckdata _horizoltal_lan 2_shift\helloworld\source.cpp(57): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+     1>d:\project\2.business project\final project\review\opencv31_5_createcheckdata _horizoltal_lan 2_shift\helloworld\source.cpp(160): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\project\2.business project\final project\review\opencv31_5_createcheckdata _horizoltal_lan 2_shift\helloworld\source.cpp(162): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\project\2.business project\final project\review\opencv31_5_createcheckdata _horizoltal_lan 2_shift\helloworld\source.cpp(271): warning C4129: ' ' : unrecognized character escape sequence
+     1>d:\project\2.business project\final project\review\opencv31_5_createcheckdata _horizoltal_lan 2_shift\helloworld\source.cpp(272): warning C4129: ' ' : unrecognized character escape sequence
+     1>d:\project\2.business project\final project\review\opencv31_5_createcheckdata _horizoltal_lan 2_shift\helloworld\source.cpp(107): warning C4101: 'a' : unreferenced local variable
+     1>d:\project\2.business project\final project\review\opencv31_5_createcheckdata _horizoltal_lan 2_shift\helloworld\source.cpp(107): warning C4101: 'b' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Project\2.Business Project\FINAL PRoject\Review\Opencv31_5_CreateCheckdata _Horizoltal_Lan 2_shift\Debug\OpenCv31_5_Creat data_Horizoltal_lan2_shift.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x86\vc12\lib opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Project\2.Business Project\FINAL PRoject\Review\Opencv31_5_CreateCheckdata _Horizoltal_Lan 2_shift\Debug\OpenCv31_5_Creat data_Horizoltal_lan2_shift.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Project\2.Business Project\FINAL PRoject\Review\Opencv31_5_CreateCheckdata _Horizoltal_Lan 2_shift\Debug\OpenCv31_5_Creat data_Horizoltal_lan2_shift.lib" /MACHINE:X86 Debug\Source.obj
+         HelloWorld.vcxproj -> D:\Project\2.Business Project\FINAL PRoject\Review\Opencv31_5_CreateCheckdata _Horizoltal_Lan 2_shift\Debug\OpenCv31_5_Creat data_Horizoltal_lan2_shift.exe
+     1>Done Building Project "D:\Project\2.Business Project\FINAL PRoject\Review\Opencv31_5_CreateCheckdata _Horizoltal_Lan 2_shift\HelloWorld\HelloWorld.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09
